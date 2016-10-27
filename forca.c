@@ -150,7 +150,7 @@ int jogoSolo() {
 	return; //retornar
 }
 
-int main() { //teste
+int main() {
 	int repetir = 0;
 	do {
 		short int escolha;
